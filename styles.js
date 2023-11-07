@@ -31,7 +31,8 @@ punchlineBoxHidden:{
 },
 punchlineText:{
 fontSize:30,
-color: '#00d'
+color: '#00d',
+textAlign: "center"
 },
 punchlineBox:{
    
